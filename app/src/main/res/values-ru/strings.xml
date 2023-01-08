@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Конвертер Валют</string>
+    <string name="calculate_button">Рассчитать</string>
+    <string name="enter_value">Введите количество валюты</string>
+    <string name="cur_rub">Российский Рубль</string>
+    <string name="not_empty">Это значение не может быть пустым</string>
+    <string name="cur_aud">Австралийский доллар</string>
+    <string name="cur_azn">Азербайджанский манат</string>
+    <string name="cur_gbp">Фунт стерлинга</string>
+    <string name="cur_byn">Белорусский рубль</string>
+    <string name="cur_bgn">Болгарский лев</string>
+    <string name="cur_dkk">Датская крона</string>
+    <string name="cur_usd">Доллар США</string>
+    <string name="cur_eur">Евро</string>
+    <string name="cur_cad">Канадский доллар</string>
+    <string name="cur_pln">Польский злотый</string>
+    <string name="cur_ron">Румынский лей</string>
+    <string name="cur_sgd">Сингапурский доллар</string>
+    <string name="cur_tmt">Туркменский манат</string>
+    <string name="cur_chf">Швейцарский франк</string>
+    <string name="cur_amd">Армянский драм</string>
+    <string name="cur_brl">Бразильский реал</string>
+    <string name="cur_huf">Форинт</string>
+    <string name="cur_hkd">Гонконгский доллар</string>
+    <string name="cur_inr">Рупий</string>
+    <string name="cur_kzt">Тенге</string>
+    <string name="cur_kgs">Сом</string>
+    <string name="cur_cny">Юань</string>
+    <string name="cur_mdl">Молдавский лей</string>
+    <string name="cur_nok">Норвежская крона</string>
+    <string name="cur_tjs">Сомони</string>
+    <string name="cur_try">"Турецкая лира "</string>
+    <string name="cur_uzs">Узбекский сум</string>
+    <string name="cur_uah">Гривна</string>
+    <string name="cur_czk">Чешская крона</string>
+    <string name="cur_sek">Шведская крона</string>
+    <string name="cur_zar">Рэнд</string>
+    <string name="cur_krw">Южнокорейская вона</string>
+    <string name="cur_jpy">Иена</string>
+</resources>

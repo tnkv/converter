@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nord_200">#88C0D0</color>
+    <color name="nord_500">#81A1C1</color>
+    <color name="nord_700">#5E81AC</color>
+    <color name="nord_900">#8FBCBB</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#ECEFF4</color>
+    <color name="editbox_bg">#D8DEE9</color>
+
+</resources>
