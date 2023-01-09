@@ -2,8 +2,8 @@
     <string name="app_name">Currency Converter</string>
     <string name="calculate_button">Calculate</string>
     <string name="enter_value">Enter the amount of currency</string>
-    <string name="cur_rub">Russian Rubble</string>
     <string name="not_empty">This value cannot be empty</string>
+    <string name="cur_rub">Russian Rubble</string>
     <string name="cur_aud">Australian dollar</string>
     <string name="cur_azn">Azerbaijani manat</string>
     <string name="cur_gbp">Pound Sterling</string>
@@ -26,8 +26,8 @@
     <string name="cur_pln">Polish zloty</string>
     <string name="cur_ron">Romanian leu</string>
     <string name="cur_sgd">Singapore dollar</string>
-    <string name="cur_tjs">\tSomoni</string>
-    <string name="cur_try">"Turkish lira "</string>
+    <string name="cur_tjs">Somoni</string>
+    <string name="cur_try">Turkish lira</string>
     <string name="cur_tmt">Turkmen Manat</string>
     <string name="cur_uzs">Uzbek Sum</string>
     <string name="cur_uah">Hryvnia</string>

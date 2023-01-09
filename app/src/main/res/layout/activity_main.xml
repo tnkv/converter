@@ -33,14 +33,14 @@
         android:id="@+id/fromCurrencyNumber"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp"
         android:layout_marginTop="16dp"
-        android:layout_marginRight="20dp"
+        android:layout_marginEnd="20dp"
         android:ems="10"
         android:inputType="numberDecimal"
         app:layout_constraintTop_toBottomOf="@+id/toCurrency"
         tools:layout_editor_absoluteX="16dp"
-        android:hint="@string/enter_value"/>
+        android:hint="@string/enter_value" />
 
     <TextView
         android:id="@+id/result_text"
@@ -50,6 +50,7 @@
         android:layout_marginTop="32dp"
         android:layout_marginRight="20dp"
         android:text=""
+        android:textSize="28sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/fromCurrencyNumber" />
@@ -58,13 +59,15 @@
         android:id="@+id/calculate_button"
         android:layout_width="match_parent"
         android:layout_height="51dp"
-        android:layout_marginBottom="64dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="64dp"
+        android:layout_marginEnd="20dp"
         android:background="@color/nord_200"
         android:onClick="solveCurrency"
         android:text="@string/calculate_button"
         android:textColor="@color/white"
-        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/result_text" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

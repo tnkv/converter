@@ -3,8 +3,8 @@
     <string name="app_name">Конвертер Валют</string>
     <string name="calculate_button">Рассчитать</string>
     <string name="enter_value">Введите количество валюты</string>
-    <string name="cur_rub">Российский Рубль</string>
     <string name="not_empty">Это значение не может быть пустым</string>
+    <string name="cur_rub">Российский Рубль</string>
     <string name="cur_aud">Австралийский доллар</string>
     <string name="cur_azn">Азербайджанский манат</string>
     <string name="cur_gbp">Фунт стерлинга</string>
@@ -30,7 +30,7 @@
     <string name="cur_mdl">Молдавский лей</string>
     <string name="cur_nok">Норвежская крона</string>
     <string name="cur_tjs">Сомони</string>
-    <string name="cur_try">"Турецкая лира "</string>
+    <string name="cur_try">"Турецкая лира</string>
     <string name="cur_uzs">Узбекский сум</string>
     <string name="cur_uah">Гривна</string>
     <string name="cur_czk">Чешская крона</string>
